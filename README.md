@@ -1,6 +1,8 @@
 # Hi 👋, I'm Rishabh Pancholi  
 **An IIT Graduate and a Data Science aspirant from India**  
 
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="500"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhpancholi&color=blue)  
 
 - 🌱 I’m currently learning **Data Science**  
