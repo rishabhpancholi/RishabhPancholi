@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**  
 - 📫 How to reach me: **rishabhpancholi134@gmail.com**  
-- 📄 Know about my experiences: [Resume]([your_drive_link](https://drive.google.com/file/d/1OiMOExicNDu7mHMmShPkreVQVqEmil2q/view?usp=sharing))  
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OiMOExicNDu7mHMmShPkreVQVqEmil2q/view?usp=sharing) 
 
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your_linkedin_link](https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/))  
@@ -19,6 +19,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)  
+
+## 📌 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpancholi&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats:  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhpancholi&show_icons=true&theme=radical)  
