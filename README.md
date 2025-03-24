@@ -8,8 +8,8 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OiMOExicNDu7mHMmShPkreVQVqEmil2q/view?usp=sharing) 
 
 ## 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your_linkedin_link](https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/))  
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)]([your_kaggle_link](https://www.kaggle.com/rishabhpancholi1302))  
+🔗 [LinkedIn](https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/)  
+🔗 [Kaggle](https://www.kaggle.com/rishabhpancholi1302)
 
 ## 🛠 Languages and Tools:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
