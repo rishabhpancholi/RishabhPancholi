@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**  
 - 📫 How to reach me: **rishabhpancholi134@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OiMOExicNDu7mHMmShPkreVQVqEmil2q/view?usp=sharing) 
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NrlnNTPrflI2KZqmmEKNblV8J3ZLvzPN/view?usp=sharing) 
 
 ## 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/)  
