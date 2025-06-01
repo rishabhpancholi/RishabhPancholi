@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**  
 - 📫 Reach me at: **rishabhpancholi134@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/143dAvs1UvBa-3uy7xkZA-7ybLPmfjiLL/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1DCsyFiRmWJLZmZY7yuhnG9V2517HH-DM/view?usp=sharing)
 
 ---
 
