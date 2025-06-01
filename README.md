@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rishabh Pancholi  
-**An IIT Graduate and a Data Science enthusiast from India**  
+**NASSCOM (GOI) Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning & AI**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhpancholi&color=blue)  
 
@@ -31,7 +31,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=black)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ⚙️ Frameworks & Tools  
+### ⚙️ Frameworks  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
@@ -40,7 +40,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![Pydantic](https://img.shields.io/badge/Pydantic-3099F2?style=for-the-badge&logo=python&logoColor=white)  
 
-### 🧠 Platforms & IDEs  
+### 🧠 Tools & IDEs  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,11 +53,12 @@
 
 ### ☁️ Cloud & Deployment  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpancholi&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhpancholi&show_icons=true&theme=radical)
+
 
