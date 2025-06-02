@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rishabh Pancholi  
-**NASSCOM (GOI) Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning & AI**  
+**NASSCOM (GOI) Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning, Deep Learning & AI**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhpancholi&color=blue)  
 
